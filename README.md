@@ -10,7 +10,9 @@ Mobile phones collectively study a shared prediction model, while keeping the de
 
 Distributed learning uses ```centralized data```. This means that the whole organization works from the same blueprint, avoiding discrepancies that easily arise from disparate data and different tools. In colloquial terms, a centralized database has all its data collected and located at a single area therefore the security of the database is high but this type of database heavily depends on ```network connectivity```. If the network is slow it takes longer time to connect to the database. This became the reason for the usage of a decentralized database which doesn’t have its data at a centralized area, instead it is ```distributed```. This feature of decentralized database helps to avoid network connectivity issue. A federated learning uses decentralized data.
 
-
+<div align = "center">
+<img scr="https://user-images.githubusercontent.com/91787553/183024050-389b13eb-5aeb-4fb2-8f98-917076efb710.png" width="600">
+</div>
 
 <h3>Advantages of federated learning</h3>
 <li>Allows devices such as smartphones to learn a shared prediction model collaboratively while maintaining the training data on the computer rather than uploading and storing it on a central server.</li>
